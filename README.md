@@ -10,11 +10,12 @@ I'm a budding software engineer with a experience as both a business analyst and
 ![OracleDatabases](https://img.shields.io/badge/-OracleDatabases-000?&logo=oracle)
 ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-000?&logo=azuredevops)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
 ### Projects
 
 [![](https://img.shields.io/badge/-🧬%20Enigma-000)](https://github.com/netia1128/Enigma)
-[![](https://img.shields.io/badge/-🦠%Battleship-000)](https://github.com/netia1128/battleship)
+[![](https://img.shields.io/badge/-🦠%20Battleship-000)](https://github.com/netia1128/battleship)
 
 ### Statistics
 
