@@ -11,6 +11,8 @@
 [![](https://img.shields.io/badge/-🧬%20Enigma-000)](https://github.com/netia1128/Enigma)
 [![](https://img.shields.io/badge/-🦠%Battleship-000)](https://github.com/netia1128/battleship)
 
+### Statistics
+
 ![Netia's GitHub stats](https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical)
 
 <a href="https://github.com/neti1128">
