@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Netia!
 
-[![Netia1128's GitHub stats](https://github-readme-stats.vercel.app/api?username=netia1128)](https://github.com/netia1128/github-readme-stats)
-
-<a href="https://github.com/netia1128">
-<img align="center" alt="Netia's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=netia1128&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+![Netia's GitHub stats](https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical)
+[![Netia's GitHub stats](https://github-readme-stats.vercel.app/api?username=netia1128)](https://github.com/netia1128/github-readme-stats)
 
 <a href="https://github.com/neti1128">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NETIA1128&layout=compact&theme=radical" />
