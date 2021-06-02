@@ -14,8 +14,8 @@ I'm a budding software engineer with a experience as both a business analyst and
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧬%20Enigma-000)](https://github.com/netia1128/Enigma)
-[![](https://img.shields.io/badge/-🦠%20Battleship-000)](https://github.com/netia1128/battleship)
+[![](https://img.shields.io/badge/-🔐%20Enigma-000)](https://github.com/netia1128/Enigma)
+[![](https://img.shields.io/badge/-🕹%20Battleship-000)](https://github.com/netia1128/battleship)
 
 ### Statistics
 
