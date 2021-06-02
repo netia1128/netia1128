@@ -11,8 +11,8 @@
 
 ### Technologies
 
-![Ruby](https://img.shields.io/badge/-AWS-000?&logo=Ruby&logoColor=F90)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-000?&logo=Postgres)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=F90)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
 ### Projects
 
