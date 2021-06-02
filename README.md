@@ -5,6 +5,7 @@ I'm a budding software engineer with experience as both a business analyst and d
 ### Technologies I Use
 
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=F90)
+![Rails](https://img.shields.io/badge/-Rails-000?&logo=ruby-on-rails&logoColor=F90)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![VisualBasic](https://img.shields.io/badge/-VisualBasic-000?&logo=visualbasic)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
