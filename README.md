@@ -22,9 +22,16 @@ I'm a budding software engineer with experience as both a business analyst and d
 [![](https://img.shields.io/badge/-🕹%20Battleship-000)](https://github.com/netia1128/battleship)
 
 ### Statistics
-
+<div>
+  <a href="https://github.com/neti1128">
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical" />
+  </a>
+    
 ![Netia's GitHub stats](https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical)
+</div>
 
+<div>
 <a href="https://github.com/neti1128">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NETIA1128&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NETIA1128&layout=compact&theme=radical" />
 </a>
+ </div>
