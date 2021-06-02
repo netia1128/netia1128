@@ -9,11 +9,11 @@ I'm a budding software engineer with experience as both a business analyst and d
 ![VisualBasic](https://img.shields.io/badge/-VisualBasic-000?&logo=visualbasic)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![OracleDatabases](https://img.shields.io/badge/-OracleDatabases-000?&logo=oracle)
-![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-000?&logo=MicrosoftSQLServer)
+![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-000?&logo=sqlserver)
 ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-000?&logo=azuredevops)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=powerbi)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=microsoftpowerbi)
 
 ### Projects
 
