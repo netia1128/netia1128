@@ -26,8 +26,6 @@ I'm a budding software engineer with experience as both a business analyst and d
   <a href="https://github.com/neti1128">
      <img align="left" src="https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical" />
   </a>
-    
-![Netia's GitHub stats](https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical)
 </div>
 
 <div>
