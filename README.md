@@ -13,7 +13,7 @@ I'm a budding software engineer with experience as both a business analyst and d
 ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-000?&logo=azuredevops)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=microsoftpowerbi)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=power-bi)
 
 ### Projects
 
