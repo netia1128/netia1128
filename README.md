@@ -1,18 +1,10 @@
 ### Hi there 👋 I'm Netia!
 
-### Things I Code With
-
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-45b8d8?style=flat-square&logo=ruby&logoColor=white" />
-  <img alt="Rails" src="https://img.shields.io/badge/-Rails-8DD6F9?style=flat-square&logo=rails&logoColor=white" /> 
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-46a2f1?style=flat-square&logo=sql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-SQL-46a2f1?style=flat-square&logo=postgresql&logoColor=white" />
-  
- 
-
 ### Technologies
 
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=F90)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
+![OracleSQL](https://img.shields.io/badge/-oraclesql-000?&logo=oraclesql)
 
 ### Projects
 
