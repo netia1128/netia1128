@@ -4,7 +4,7 @@
 
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=F90)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
-![OracleDatabases](https://img.shields.io/badge/-oracledatabases-000?&logo=oracle)
+![OracleDatabases](https://img.shields.io/badge/-OracleDatabases-000?&logo=oracle)
 
 ### Projects
 
