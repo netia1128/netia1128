@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Netia1128's GitHub stats](https://github-readme-stats.vercel.app/api?username=netia1128)](https://github.com/netia1128/github-readme-stats)
+
+
 <!--
 **netia1128/netia1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
