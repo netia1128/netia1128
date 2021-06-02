@@ -8,6 +8,7 @@ I'm a budding software engineer with a experience as both a business analyst and
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![OracleDatabases](https://img.shields.io/badge/-OracleDatabases-000?&logo=oracle)
 ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-000?&logo=azuredevops)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
 
 ### Projects
 
