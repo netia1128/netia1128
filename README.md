@@ -16,6 +16,7 @@ I'm a budding software engineer with experience as both a business analyst and d
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=powerbi)
 
 ### Projects
 
@@ -32,6 +33,6 @@ I'm a budding software engineer with experience as both a business analyst and d
 
 <div>
 <a href="https://github.com/neti1128">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NETIA1128&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NETIA1128&layout=compact&theme=radical" />
 </a>
  </div>
