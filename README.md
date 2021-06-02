@@ -2,7 +2,7 @@
 
 ### Things I Code With
 
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-45b8d8?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Rails" src="https://img.shields.io/badge/-Rails-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
