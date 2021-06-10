@@ -23,7 +23,6 @@ I'm a budding software engineer with experience as both a business analyst and d
 [![](https://img.shields.io/badge/-🔐%20Enigma-000)](https://github.com/netia1128/Enigma)
 [![](https://img.shields.io/badge/-🕹%20Battleship-000)](https://github.com/netia1128/battleship)
 [![](https://img.shields.io/badge/-🐱%20AdoptDontShop-000)](https://github.com/netia1128/adopt_dont_shop)
-[![](https://img.shields.io/badge/-🛒%20AdoptDontShop-000)](https://github.com/netia1128/adopt_dont_shop)
 [![](https://img.shields.io/badge/-🛒%20LittleEsty-000)](https://github.com/suzkiee/little-esty-shop)
 
 ### Statistics
