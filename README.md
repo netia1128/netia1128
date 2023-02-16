@@ -10,7 +10,7 @@ I'm a budding software engineer with experience as both a business analyst and d
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=F90)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![OracleDatabases](https://img.shields.io/badge/-OracleDatabases-000?&logo=oracle)
+![Mongo](https://img.shields.io/badge/-Mongo-000?&logo=oracle)
 ![JIRA](https://img.shields.io/badge/-JIRA-000?&logo=microsoft-sql-server)
 
 
