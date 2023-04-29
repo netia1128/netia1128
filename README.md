@@ -8,6 +8,7 @@ I'm a budding software engineer with experience as both a business analyst and d
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=nodejs&logoColor=F90)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=F90)
+![PHP](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=F90)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![Mongo](https://img.shields.io/badge/-Mongo-000?&logo=mongo)
 ![JIRA](https://img.shields.io/badge/-JIRA-000?&logo=JIRA)
