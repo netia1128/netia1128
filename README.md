@@ -1,6 +1,6 @@
 ### Hi, I'm Netia 👋
 
-I'm a budding software engineer with experience as both a business analyst and data analyst.
+I'm a software engineer.
 
 ### Technologies I Use
 
