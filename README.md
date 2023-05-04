@@ -25,6 +25,7 @@ I'm a software engineer.
 ### Statistics
 
 <div>
+    ![Netia's GitHub stats](https://github-readme-stats.vercel.app/api?username=netia1128&count_private=true&theme=radical)
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical" />
 </div>
 
