@@ -23,15 +23,11 @@ I'm a software engineer.
 [![](https://img.shields.io/badge/-🛒%20LittleEsty-000)](https://github.com/suzkiee/little-esty-shop)
 
 ### Statistics
-<div>
-  <a href="https://github.com/netia1128">
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical" />
-  </a>
-</div>
+
 
 <div>
   <a ref="">
-    <img align=right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=netia1128&layout=compact&theme=radical"
+    <img align=right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=netia1128&layout=compact&theme=radical" />
   </a>                                                                                                                                            
 </div>
 
