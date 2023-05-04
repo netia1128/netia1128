@@ -25,7 +25,7 @@ I'm a software engineer.
 ### Statistics
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical" />
+    <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=netia1128&show_icons=true&layout=compact&theme=radical" />
 </div>
 
 <div>
