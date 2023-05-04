@@ -25,19 +25,10 @@ I'm a software engineer.
 ### Statistics
 
 <div>
-  <a href="">
-  </a>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical" />
 </div>
 
 <div>
-  <a href="">
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=netia1128&show_icons=true&theme=radical" />
-  </a>
-</div>
-
-<div>
-  <a ref="">
     <img align=right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=netia1128&layout=compact&theme=radical" />
-  </a>                                                                                                                                            
 </div>
 
