@@ -29,8 +29,3 @@ I'm a software engineer.
   </a>
 </div>
 
-<div>
-<a href="https://github.com/neti1128">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NETIA1128&layout=compact&theme=radical" />
-</a>
- </div>
