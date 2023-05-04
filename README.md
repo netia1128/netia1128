@@ -30,7 +30,7 @@ I'm a software engineer.
 </div>
 
 <div>
-<a href="https://github.com/neti1128">
+<a href="[https://github.com/neti1128](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NETIA1128&layout=compact&theme=radical)">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NETIA1128&layout=compact&theme=radical" />
 </a>
  </div>
