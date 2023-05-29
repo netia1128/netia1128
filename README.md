@@ -1,6 +1,6 @@
 ### Hi, I'm Netia 👋
 
-I'm a software engineer.
+I'm a backend software engineer. I speacialize in backend Node.js apps, but have dabbled in Ruby, PHP, and React apps as well.
 
 ### Technologies I Use
 
