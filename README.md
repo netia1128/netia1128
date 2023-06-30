@@ -30,6 +30,6 @@ I'm a backend software engineer. I speacialize in backend Node.js apps, but have
 </div>
 
 <div>
-    <img align=right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=netia1128&layout=compact" />
+    <img align=right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=netia1128&layout=compact&theme=radical" />
 </div>
 
