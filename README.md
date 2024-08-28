@@ -3,7 +3,7 @@
 I'm a backend software engineer. I speacialize in backend Node.js apps, but have dabbled in Ruby, PHP, and React apps as well.
 
 ### Technologies I Use
-![TypeScri[t](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=F90)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=F90)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F90)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=nodejs&logoColor=F90)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
