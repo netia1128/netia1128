@@ -23,13 +23,4 @@ I'm a backend software engineer. I speacialize in backend Node.js apps, but have
 [![](https://img.shields.io/badge/-🐱%20AdoptDontShop-000)](https://github.com/netia1128/adopt_dont_shop)
 [![](https://img.shields.io/badge/-🛒%20LittleEsty-000)](https://github.com/suzkiee/little-esty-shop)
 
-### Statistics
-
-<div>
-    <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=netia1128&show_icons=true&layout=compact&theme=dark" />
-</div>
-
-<div>
-    <img align=right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=netia1128&layout=compact&theme=dark" />
-</div>
 
